@@ -1,4 +1,3 @@
-#!/bin/sh
 sudo apt-get update -yy
 
 sudo apt-get install -yy apt-transport-https ca-certificates curl gnupg lsb-release
